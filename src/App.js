@@ -6,12 +6,17 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultcity="erode" />
       </div>
       <footer>
         <p>
           This project is coded by Surekha and is
-          <a href="https://github.com/dashboard"> open sourced in git hub</a>
+          <a
+            href="https://github.com/SurekhaSath/reactweatherproject"
+            target="blank"
+          >
+            open sourced in git hub
+          </a>
         </p>
       </footer>
     </div>
