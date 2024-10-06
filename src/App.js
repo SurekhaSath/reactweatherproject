@@ -16,7 +16,8 @@ function App() {
             target="blank"
           >
             open sourced in git hub
-          </a>
+          </a>{" "}
+          and is hosted in <a href="#">Netlify</a>
         </p>
       </footer>
     </div>
