@@ -5,7 +5,9 @@
   border-radius: 4px;
   color: rgb(135, 135, 135);
 }
-
+.Weather SearchBar {
+  max-width: 75%;
+}
 .Weather h1 {
   font-size: 24px;
   font-weight: 100;
