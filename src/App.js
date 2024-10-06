@@ -17,7 +17,8 @@ function App() {
           >
             open sourced in git hub
           </a>{" "}
-          and is hosted in <a href="#">Netlify</a>
+          and is hosted in{" "}
+          <a href="https://app.netlify.com/teams/surekhasath/sites">Netlify</a>
         </p>
       </footer>
     </div>
